@@ -17,7 +17,7 @@ Neste repositório, todos os arquivos relacionados ao projeto Cartinhas de Natal
   <h4> Guilherme José </h4>
   <h4> Vínicius Marques </h4>
   <h4> Stela </h4>
-  <h4> Filipe </h4>
+  <h4> Filipe Moura</h4>
 </div>
 
 
