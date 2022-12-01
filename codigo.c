@@ -1,3 +1,7 @@
+//Código feito para o projeto da matéria de Projeto Interdisciplinar, que tem como fim auxiliar o usuario a cadastrar crianças no sistema, visto que, 
+//é presente o problema de organização ao guardar os cadastros, pois não existe um padrão correto para sanar o problema. 
+//Com isso, o algoritmo foi criado com o intuito de automatizar o processo de matriculas, criando um padrão, facilitando assim o trabalho do usuário.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
